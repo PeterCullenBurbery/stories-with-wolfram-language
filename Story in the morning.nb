@@ -1,0 +1,64 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1705,         54]
+NotebookOptionsPosition[      1131,         37]
+NotebookOutlinePosition[      1571,         54]
+CellTagsIndexPosition[      1528,         51]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["\<\
+My name is Peter Burbery. I will be writing a story with Wolfram Mathematica.\
+\>", "Text",
+ CellChangeTimes->{{3.8623878227404175`*^9, 
+  3.862387837712449*^9}},ExpressionUUID->"a073f53f-17ad-4f30-a843-\
+18ad791789d8"],
+
+Cell["I can find my date and time.", "CodeText",
+ CellChangeTimes->{{3.8623878405301065`*^9, 
+  3.8623878529490767`*^9}},ExpressionUUID->"6b19c8e9-2e3a-49f8-8277-\
+a147ec8dab09"],
+
+Cell[BoxData["st"], "Input",
+ CellChangeTimes->{{3.862387853735146*^9, 
+  3.8623878578764563`*^9}},ExpressionUUID->"d2842f2b-5a10-4ef8-a55b-\
+e1564e8441cf"]
+},
+WindowSize->{1152., 615.6},
+WindowMargins->{{
+  Automatic, -5.399999999999864}, {-5.399999999999977, Automatic}},
+FrontEndVersion->"13.0 for Microsoft Windows (64-bit) (February 4, 2022)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"0012f65e-be6a-488d-9416-2785d1dbea94"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 229, 5, 35, "Text",ExpressionUUID->"a073f53f-17ad-4f30-a843-18ad791789d8"],
+Cell[790, 27, 178, 3, 38, "CodeText",ExpressionUUID->"6b19c8e9-2e3a-49f8-8277-a147ec8dab09"],
+Cell[971, 32, 156, 3, 28, "Input",ExpressionUUID->"d2842f2b-5a10-4ef8-a55b-e1564e8441cf"]
+}
+]
+*)
+
+(* End of internal cache information *)
+
